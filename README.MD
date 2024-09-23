@@ -1,5 +1,7 @@
 ## tetris-optimizer
 
+https://github.com/user-attachments/assets/c2f2d073-2262-4077-852d-6b3681426c6d
+
 ### Objectives
 
 Develop a program that receives only one argument, a path to a text file which will contain a list of [tetrominoes](https://en.wikipedia.org/wiki/Tetromino) and assemble them in order to create the smallest square possible.
